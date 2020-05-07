@@ -5,7 +5,7 @@
 ![flag](./screenshots/flag.png)
 
 ## How to use
-Dockerfile exists. Sample app work on 3000 port.
+Dockerfile exists. Sample app work on any port.
 
 ```
 $ docker build -t nginx-traversal .
