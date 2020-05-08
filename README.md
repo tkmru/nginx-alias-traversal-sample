@@ -1,5 +1,7 @@
 # Nginx alias traversal sample app
 
+There is a vulnerability in Nginx that can be caused by misconfiguration. One of them is `alias traversal`.
+
 ![top](./screenshots/top.png)
 
 ![flag](./screenshots/flag.png)
